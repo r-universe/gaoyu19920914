@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "betaStability"]
+	path = betaStability
+	url = https://github.com/gaoyu19920914/betastability
